@@ -10,11 +10,12 @@ search                   : true
 search_full_content      : true
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jemoji
-
+  - jekyll-remote-theme
 # Exclude from processing.
 exclude:
   - .DS_Store

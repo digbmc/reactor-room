@@ -9,7 +9,7 @@ header:
     teaser: assets/images/maeve.jpg
 contributors:
     - name: Maeve
-      bio: My name is Maeve. I am a Russian major with a focus in Russian Literature at Bryn Mawr College. 
+      bio: is a Russian major with a focus in Russian Literature at Bryn Mawr College. 
 embed:
     type: arcgis
     id: 1XnTOz
@@ -17,8 +17,3 @@ embed:
 course: 'RUSSB220 Chornobyl, Bryn Mawr College, Fall 2023'
 license: CC BY-NC
 ---
-
-
-content: https://brynmawr-my.sharepoint.com/:f:/g/personal/mitaylor_brynmawr_edu/Ev3nqVoO9cZDmdnQcJ_DLS0BYFtG0ywf1oRv3YvP_NSNSA?e=Zp1fGw 
-
-issues: 

@@ -18,43 +18,43 @@ permalink: /course/
 gallery:
   - url: /assets/images/bmcherbarium1.JPG
     image_path: /assets/images/bmcherbarium1.JPG
-    alt: ""
+    alt: "A bare tree from below"
     title: ""
   - url: /assets/images/bmcherbarium2.jpeg
     image_path: /assets/images/bmcherbarium2.jpeg
-    alt: ""
+    alt: "A pink flower"
     title: ""
   - url: /assets/images/bmcherbarium3.jpeg
     image_path: /assets/images/bmcherbarium3.jpeg
-    alt: ""
+    alt: "Red stems"
     title: ""
   - url: /assets/images/bmcherbarium4.JPG
     image_path: /assets/images/bmcherbarium4.JPG
-    alt: ""
+    alt: "tree branches"
     title: ""
   - url: /assets/images/bmcherbarium5.jpg
     image_path: /assets/images/bmcherbarium5.jpg
-    alt: ""
+    alt: "Green plant growing from stone"
     title: ""
   - url: /assets/images/bmcherbarium6.jpg
     image_path: /assets/images/bmcherbarium6.jpg
-    alt: ""
+    alt: "Garden in front of Canaday Library"
     title: ""
   - url: /assets/images/bmcherbarium7.png
     image_path: /assets/images/bmcherbarium7.png
-    alt: ""
+    alt: "a green weed"
     title: ""
   - url: /assets/images/bmcherbarium8.jpeg
     image_path: /assets/images/bmcherbarium8.jpeg
     alt: ""
-    title: ""
+    title: "purple and yellow chrysanthemums"
   - url: /assets/images/bmcherbarium9.jpeg
     image_path: /assets/images/bmcherbarium9.jpeg
-    alt: ""
+    alt: "a tree"
     title: ""
   - url: /assets/images/bmcherbarium10theoshefer.JPG
     image_path: /assets/images/bmcherbarium10theoshefer.JPG
-    alt: ""
+    alt: "dried brush"
     title: "Photograph by Theo Shefer"
 ---
 

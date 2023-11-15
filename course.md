@@ -9,12 +9,11 @@ header:
   overlay_image: /assets/images/rothbart-wide-web.jpg
   overlay_filter: rgba(50,50,50,.5)
   caption: 'Courtesy of Michael Forster Rothbart'
-toc: true
-toc_sticky: true
-toc_label: About
-toc_icon: 'angle-double-down'
-permalink: /course/
-
+# toc: true
+# toc_sticky: true
+# toc_label: About
+# toc_icon: 'angle-double-down'
+# permalink: /course/
 gallery:
   - url: /assets/images/bmcherbarium1.JPG
     image_path: /assets/images/bmcherbarium1.JPG

@@ -11,7 +11,7 @@ header:
   caption: 'Courtesy of Michael Forster Rothbart'
 toc: true
 toc_sticky: true
-toc_label: About the Course
+toc_label: About
 toc_icon: 'angle-double-down'
 permalink: /course/
 
@@ -46,16 +46,16 @@ gallery:
     title: ""
   - url: /assets/images/bmcherbarium8.jpeg
     image_path: /assets/images/bmcherbarium8.jpeg
-    alt: ""
-    title: "purple and yellow chrysanthemums"
-  - url: /assets/images/bmcherbarium9.jpeg
-    image_path: /assets/images/bmcherbarium9.jpeg
-    alt: "a tree"
+    alt: "purple and yellow chrysanthemums"
     title: ""
+  # - url: /assets/images/bmcherbarium9.jpeg
+  #   image_path: /assets/images/bmcherbarium9.jpeg
+  #   alt: "a tree"
+  #   title: ""
   - url: /assets/images/bmcherbarium10theoshefer.JPG
     image_path: /assets/images/bmcherbarium10theoshefer.JPG
     alt: "dried brush"
-    title: "Photograph by Theo Shefer"
+    title: "Photograph by Theo Schefer"
 ---
 
 ## The Course -- Chornobyl

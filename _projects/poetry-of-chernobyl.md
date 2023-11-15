@@ -3,7 +3,7 @@ title:  "Poetry of Chernobyl"
 category: ['literature', 'game', 'arts']
 classes: ['iframe','embed', 'arcgis']
 excerpt: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. "
-description: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. The project hopes you will see how similar ideas or words have propagated in the poetry about Chernobyl, but can take on meanings far different from one another. As I made the project, I thought about how certain poems informed one another. "
+description: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. The project hopes you will see how similar ideas or words have propagated in the poetry about Chernobyl, but can take on meanings far different from one another. As I made the project, I thought about how certain poems informed one another."
 header: 
     teaser: assets/images/katz.png
 contributors:

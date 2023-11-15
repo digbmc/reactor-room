@@ -6,9 +6,9 @@ classes: ['about']
 excerpt: >-
   *The Reactor Room* is a digital installation that seeks to facilitate public engagement with the Chornobyl catastrophe and its history and mythology. It features work from students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College (Spring 2020), as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). 
 header:
-  overlay_image: /assets/images/rothbart-wide-web.jpg
+  overlay_image: /assets/images/exhibit-portraits.jpg
   overlay_filter: rgba(50,50,50,.5)
-  caption: 'Courtesy of Michael Forster Rothbart'
+  caption: 'The Reactor Room portrait wall, featuring images of Chornobyl liquidators'
 toc: true
 toc_sticky: true
 toc_label: About the Project

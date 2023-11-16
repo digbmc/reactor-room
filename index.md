@@ -20,7 +20,7 @@ include_categories:
   - time
 sidebar:
   - nav: splash
-permalink: /home/
+permalink: /
 ---
 
 

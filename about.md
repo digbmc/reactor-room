@@ -18,7 +18,7 @@ permalink: /about/
 
 ## The Exhibition
 
-*The Reactor Room: An Immersive Chornobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College, as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). 
+*The Reactor Room: An Immersive Chornobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College, as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). The exhibit is on view through May 31, 2024 in the 3rd Floor Atrium of [Park Science Center](https://map.concept3d.com/?id=981#!m/182744).
 
 To provide audiences with a sense of nuclear essentials, the DSSFs produced [a “basics” exhibit](../projects/nuclear-power/) exploring the history, science, and future of nuclear power, a perennial controversial topic worth understanding. The goal of this part of the project is to provide readers with information needed to draw informed conclusions in order to enhance their experience of the overall Reactor Room.
 
@@ -55,7 +55,7 @@ However, there are a few exceptions. Proper names, for example book titles, that
 
 ### Additional Contributors
 
-At Bryn Mawr, special thanks to Joyce Angelucci, Jennifer Coval, Carrie Robbins, Laura Surtees, and Bryn Mawr Library & Information Technology Services.
+At Bryn Mawr, special thanks to Joyce Angelucci, Jennifer Coval, Karina Gonzalez, Selby Hearth, Carrie Robbins, Laura Surtees, Arleen Zimmerle, and Bryn Mawr Library & Information Technology Services.
 
 This project was supported by a Digital Bryn Mawr Project Grant.
 

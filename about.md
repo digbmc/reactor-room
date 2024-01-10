@@ -4,7 +4,7 @@ title: About
 author_profile: false
 classes: ['about']
 excerpt: >-
-  *The Reactor Room* is a digital installation that seeks to facilitate public engagement with the Chornobyl catastrophe and its history and mythology. It features work from students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College (Spring 2020), as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). 
+  *The Reactor Room* is a digital installation that seeks to facilitate public engagement with the Chornobyl catastrophe and its history and mythology: on view at Bryn Mawr College (November 16, 2023 through May 31, 2024). It features work from students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College (Spring 2020), as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023).
 header:
   overlay_image: /assets/images/exhibit-portraits.jpg
   overlay_filter: rgba(50,50,50,.5)
@@ -18,7 +18,7 @@ permalink: /about/
 
 ## The Exhibition
 
-*The Reactor Room: An Immersive Chornobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College, as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). The exhibit is on view through May 31, 2024 in the 3rd Floor Atrium of [Park Science Center](https://map.concept3d.com/?id=981#!m/182744).
+*The Reactor Room: An Immersive Chornobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College, as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). The exhibit is located in the 3rd Floor Atrium of [Park Science Center](https://maps.app.goo.gl/bUfegaeHaKC9URpK6) at Bryn Mawr College. 
 
 To provide audiences with a sense of nuclear essentials, the DSSFs produced [a “basics” exhibit](../projects/nuclear-power/) exploring the history, science, and future of nuclear power, a perennial controversial topic worth understanding. The goal of this part of the project is to provide readers with information needed to draw informed conclusions in order to enhance their experience of the overall Reactor Room.
 

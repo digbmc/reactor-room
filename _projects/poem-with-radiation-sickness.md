@@ -13,6 +13,7 @@ contributors:
 embed:
     type: iframe
     url: //digitalscholarship.brynmawr.edu/reactor-room/assets/chornobylPoem.html
+    # url: /assets/chornobylPoem.html
 toc: true
 toc_sticky: true
 toc_label: Contents

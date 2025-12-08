@@ -12,7 +12,7 @@ contributors:
       bio: is an English major who writes and does theatre. 
 embed:
     type: iframe
-    url: https://chornobyl.gracereed.digital.brynmawr.edu/chornobylPoem.html
+    url: //digitalscholarship.brynmawr.edu/reactor-room/assets/chornobylPoem.html
 toc: true
 toc_sticky: true
 toc_label: Contents

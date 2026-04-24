@@ -1,5 +1,17 @@
-# Reactor Room, a child theme of [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Reactor Room, a child theme of [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes)
 
+## Site Documentation
+
+- Site is built and deployed on Domain of One's Own: https://digitalscholarship.brynmawr.edu/reactor-room/
+- Resources are local except embedded projects from 
+- DSSF exhibit (Juncture) migrated to Jekyll site 2026.04.24 - repo: https://github.com/digbmc/reactor-jct-jekyll
+  - Migrated from defunct standalone juncture site: https://github.com/digbmc/reactor-jct
+  - Currently deployed from github pages but should be migrated locally 
+
+
+## Theme Documentation
+
+Developer: Nabil Kashyap
 Russian 43: Chernobyl: Nuclear Narratives and the Environment (Spring 2020)  
 José Vergara
 
@@ -142,26 +154,3 @@ Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-## ATM Notes
-2022.06.14
-getting errors with recent ruby
-
-```
-rbenv install 2.7.1
-rbenv local 2.7.1
-```
-
-2022.06.28 
-
-Site looks ok.
-
-Issues:
-- [x] About page lacks overlay: 
-
-```html
-<div class="page__hero--overlay"
-  style=" background-image: linear-gradient(rgba(50,50,50,.5), rgba(50,50,50,.5)), url('/reactor-room/assets/images/rothbart-wide-web.jpg');">
-```
-Fixed by adding header/overlay_filter: rgba(50,50,50,.5)
-
-Added a project

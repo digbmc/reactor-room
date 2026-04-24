@@ -19,8 +19,8 @@ contributors:
     - name: Skye Zhong
       bio: is an Anthropology and Archaeology double major hoping to triple major in Classics. As someone who loves old things, she is intrigued by the ways they manifest in contemporary digital media. She looks forward to apply skills in data visualization, web publishing and critical making acquired from the summer fellowship in various future projects. In her freetime, she enjoys reading, watching bad sitcoms, and staring at the pet cam hoping her cat walks by.
 embed:
-    url: "https://digbmc.github.io/reactor-jct/"
+    url: "https://digbmc.github.io/reactor-jct-jekyll/"
     type: juncture
-    essay-link: https://digbmc.github.io/reactor-jct/
+    essay-link: https://digbmc.github.io/reactor-jct-jekyll/
 course: 'Digital Scholarship Summer Fellows Program, Bryn Mawr College, Summer 2023'
 ---
